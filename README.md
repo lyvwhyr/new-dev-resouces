@@ -16,7 +16,9 @@
 - Simply Hired: http://simplyhired.com
 - Toptal: https://toptal.com
 - Hired - https://hired.com
-- ### Remote
+
+### Remote
+
 - FlexJobs: http://flexjobs.com
 - WeWorkRemotely: http://weworkremotely.com
 - RemoteOk: http://remoteok.io/remote-dev-jobs
@@ -36,13 +38,17 @@
 - JustRemote: https://justremote.co/remote-developer-jobs
 - RemoteLeaf - https://remoteleaf.com
 - Sitepoint - https://sitepoint.com/jobs/
-- ### Startup
+
+### Startup
+
 - AngelList: http://angel.co/jobs
 - Product Hunt: http://producthunt.com/jobs
 - Startup Hire: http://startuphire.com
 - Startupers: http://startupers.com
 - YCombinator: http://news.ycombinator.com/jobs
-- ### Specific Tech
+
+### Specific Tech
+
 - iOS: http://iosdevjobs.com
 - React: http://reactjobboard.com
 - Vue jobs: http://vuejobs.com
@@ -50,16 +56,18 @@
 - Python Jobs - http://python.org/jobs
 - JavaScript job XYZ: http://javascriptjob.xyz
 - Javascript remotely: http://jsremotely.com
-- ### Junior Dev
+
+### Junior Dev
+
 - JrDevJobs: http://jrdevjobs.com
 - Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
 
-- ### Women Board
+### Women Board
 
 - Women Who Code: http://womenwhocode.com/jobs
 - Tech Ladies - https://hiretechladies.com
 
-- ### Freelance
+### Freelance
 
 - Freelancer: http://freelancer.com/jobs
 - Upwork: http://upwork.com
